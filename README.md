@@ -1,6 +1,7 @@
 # measurebp
 
-Measure blood pressure
+Measure blood pressure using the back camera of mobile phone. It is still a work in progress. Right now only UI is available. 
+On future updates, will add the algorithm to read the blood pressure from a finger.
 
 ## Getting Started
 
